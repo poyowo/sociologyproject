@@ -1,0 +1,72 @@
+/*Marco Sanico
+11/12/2025
+SOC-101
+cascading style sheet for the sociologist site and its respective pages*/
+
+*{
+    font-family:fantasy;
+}
+
+header {
+
+}
+
+h1 {
+    font-weight:bold;
+    color:#E8EDDF;
+}
+
+p {
+    line-height:1.75;
+}
+
+body{
+    background-color:#242423;
+    color:#E8EDDF;
+}
+
+li {
+    line-height:1.75;
+}
+
+#wrapper {
+    background-color:#333533;
+    padding:2.5%;
+    margin:auto;
+    min-width:25%;
+    max-width:75%;
+}
+
+nav{
+    padding-top:2.5%;
+    padding-left:2.5%;
+    padding-right:2.5%;
+    padding-bottom:1.5%;
+    background-color:#F5CB5C;
+    max-width:70%;
+
+    a:link{
+        color:#242423;
+    }
+
+    a:visited{
+        color:#333533;
+    }
+
+}
+
+a:link{
+    color:#F5CB5C;
+}
+
+a:visited{
+    color:#F5CB5C;
+}
+
+a:hover{
+
+}
+
+a:active{
+
+}
