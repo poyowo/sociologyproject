@@ -31,7 +31,10 @@ li {
 
 #wrapper {
     background-color:#333533;
-    padding:2.5%;
+    padding-top:2.5%;
+    padding-left:2.5%;
+    padding-right:2.5%;
+    padding-bottom:1%;
     margin:auto;
     min-width:25%;
     max-width:75%;
@@ -69,4 +72,17 @@ a:hover{
 
 a:active{
 
+}
+
+footer{
+
+}
+
+#indeximage {
+    float:center;
+    background-image: url(socofthemonth.png);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    width:1024px;
+    height:512px;
 }
