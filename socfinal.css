@@ -7,7 +7,7 @@ cascading style sheet for the sociologist site and its respective pages*/
     font-family:fantasy;
 }
 
-header {
+header { /*i'm sick of seeing the "do not use empty rulesets" errors but i'm too lazy to get rid of the actual empty rulesets soooo*/
 
 }
 
