@@ -4,7 +4,7 @@ SOC-101
 cascading style sheet for the sociologist site and its respective pages*/
 
 *{
-    font-family:fantasy;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 header { /*i'm sick of seeing the "do not use empty rulesets" errors but i'm too lazy to get rid of the actual empty rulesets soooo*/
